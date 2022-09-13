@@ -1,0 +1,8 @@
+body {
+  text-align: center;
+  background-image:linear-gradient(rgb(251, 119, 119),yellow);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color:rgb(70, 45, 162);
+}
+
